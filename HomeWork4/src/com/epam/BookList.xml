@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <books>
+        <book name="Alice’s Adventures in Wonderland" author="Lewis Carroll" lang="ENG"/>
+        <book name="The Little Prince" author="Antoine de Saint-Exupery" lang="ENG"/>
+        <book name="1984" author="George Orwell" lang="RU"/>
+    </books>
+</library>
